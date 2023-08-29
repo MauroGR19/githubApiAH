@@ -1,0 +1,15 @@
+C:\Users\mauri\source\repos\AppVenta.Dominio\AppVenta.Dominio\bin\Release\net6.0\AppProducto.Dominio.exe
+C:\Users\mauri\source\repos\AppVenta.Dominio\AppVenta.Dominio\bin\Release\net6.0\AppProducto.Dominio.deps.json
+C:\Users\mauri\source\repos\AppVenta.Dominio\AppVenta.Dominio\bin\Release\net6.0\AppProducto.Dominio.runtimeconfig.json
+C:\Users\mauri\source\repos\AppVenta.Dominio\AppVenta.Dominio\bin\Release\net6.0\AppProducto.Dominio.dll
+C:\Users\mauri\source\repos\AppVenta.Dominio\AppVenta.Dominio\bin\Release\net6.0\AppProducto.Dominio.pdb
+C:\Users\mauri\source\repos\AppVenta.Dominio\AppVenta.Dominio\obj\Release\net6.0\AppProducto.Dominio.csproj.AssemblyReference.cache
+C:\Users\mauri\source\repos\AppVenta.Dominio\AppVenta.Dominio\obj\Release\net6.0\AppProducto.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\source\repos\AppVenta.Dominio\AppVenta.Dominio\obj\Release\net6.0\AppProducto.Dominio.AssemblyInfoInputs.cache
+C:\Users\mauri\source\repos\AppVenta.Dominio\AppVenta.Dominio\obj\Release\net6.0\AppProducto.Dominio.AssemblyInfo.cs
+C:\Users\mauri\source\repos\AppVenta.Dominio\AppVenta.Dominio\obj\Release\net6.0\AppProducto.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\AppVenta.Dominio\AppVenta.Dominio\obj\Release\net6.0\AppProducto.Dominio.dll
+C:\Users\mauri\source\repos\AppVenta.Dominio\AppVenta.Dominio\obj\Release\net6.0\refint\AppProducto.Dominio.dll
+C:\Users\mauri\source\repos\AppVenta.Dominio\AppVenta.Dominio\obj\Release\net6.0\AppProducto.Dominio.pdb
+C:\Users\mauri\source\repos\AppVenta.Dominio\AppVenta.Dominio\obj\Release\net6.0\AppProducto.Dominio.genruntimeconfig.cache
+C:\Users\mauri\source\repos\AppVenta.Dominio\AppVenta.Dominio\obj\Release\net6.0\ref\AppProducto.Dominio.dll

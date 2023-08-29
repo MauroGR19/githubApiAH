@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AppProducto.Infraestructura.DTO/1.0.0": {
+        "dependencies": {
+          "AppProducto.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "AppProducto.Infraestructura.DTO.dll": {}
+        }
+      },
+      "AppProducto.Dominio/1.0.0": {
+        "runtime": {
+          "AppProducto.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AppProducto.Infraestructura.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AppProducto.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
